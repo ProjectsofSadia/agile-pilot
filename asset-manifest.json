@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/agile-pilot/static/css/main.443b2a8f.css",
+    "main.js": "/agile-pilot/static/js/main.faae918f.js",
+    "static/js/453.5141ee6d.chunk.js": "/agile-pilot/static/js/453.5141ee6d.chunk.js",
+    "index.html": "/agile-pilot/index.html",
+    "main.443b2a8f.css.map": "/agile-pilot/static/css/main.443b2a8f.css.map",
+    "main.faae918f.js.map": "/agile-pilot/static/js/main.faae918f.js.map",
+    "453.5141ee6d.chunk.js.map": "/agile-pilot/static/js/453.5141ee6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.443b2a8f.css",
+    "static/js/main.faae918f.js"
+  ]
+}
