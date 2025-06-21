@@ -1,9 +1,7 @@
 # AgilePilot 
 **AI-Powered Enterprise Agile Management Platform**
 
-A comprehensive, modern agile project management platform featuring AI-driven insights, real-time analytics, and intuitive team collaboration tools. Built for enterprise teams seeking to optimize their agile workflows with intelligent automation and beautiful data visualizations.
-
-![AgilePilot Dashboard](https://via.placeholder.com/800x400/6366f1/ffffff?text=AgilePilot+Dashboard)
+A comprehensive, modern agile project management platform featuring AI-driven insights, real-time analytics, and intuitive team collaboration tools. Built for enterprise teams seeking to optimize their agile workflows with intelligent automation and data visualizations.
 
 ## ✨ Features
 
